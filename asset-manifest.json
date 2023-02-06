@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5ebc29f.css",
+    "main.js": "/static/js/main.168e5580.js",
+    "static/media/SCLbot.jpeg": "/static/media/SCLbot.e1589bee61d76e73da6e.jpeg",
+    "static/media/Volunstar.png": "/static/media/Volunstar.1d982f44de080874081b.png",
+    "static/media/MeAndAria3.png": "/static/media/MeAndAria3.85ae2739aea46f9ac97b.png",
+    "static/media/Brandon_Hong_SMU_resume copy.pdf": "/static/media/Brandon_Hong_SMU_resume copy.de107ab63c38173bbd5f.pdf",
+    "static/media/me-about.jpg": "/static/media/me-about.b101d2c2529576ae5b06.jpg",
+    "index.html": "/index.html",
+    "main.f5ebc29f.css.map": "/static/css/main.f5ebc29f.css.map",
+    "main.168e5580.js.map": "/static/js/main.168e5580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5ebc29f.css",
+    "static/js/main.168e5580.js"
+  ]
+}
